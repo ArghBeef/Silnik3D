@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Arghbeef\Documents\Silnik3D\Silnik3D\things\glfw-3.4\build\CMakeFiles\d731a175df0ae60229f7aaa26075d77e\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7B8D2482-A08A-322B-B7D3-DB8084C74B07}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
